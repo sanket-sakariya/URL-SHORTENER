@@ -12,9 +12,9 @@ url_mapping = {}
 # Database Configuration
 db_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'sanket1122005',
-    'database': 'URLS'
+    'user': 'your_username',
+    'password': 'your_password',
+    'database': 'Database_name'
 }
 
 def get_db_connection():
