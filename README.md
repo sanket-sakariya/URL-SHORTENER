@@ -26,13 +26,9 @@ A simple and efficient URL shortener built using Flask. This project includes es
    ```bash
    pip install -r requirements.txt
    ```
-4. Set up the database:
+4. Run the application:
    ```bash
-   python setup_database.py
-   ```
-5. Run the application:
-   ```bash
-   flask run
+   python app.py
    ```
 
 ## Future Enhancements
