@@ -20,7 +20,7 @@ A simple and efficient URL shortener built using Flask. This project includes es
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flask-url-shortener
+   cd URL-SHORTENER
    ```
 3. Install the required dependencies:
    ```bash
